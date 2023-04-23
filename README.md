@@ -4,6 +4,7 @@
   <a href="https://github.com/CarlOwOs/RoastReviews">
     <img src="media/logo.png" alt="Logo">
   </a>
+</div>
 
 ## About RoastReviews
 
